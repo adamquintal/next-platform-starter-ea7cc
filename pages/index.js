@@ -32,7 +32,7 @@ export default function Home() {
             BoardReady
           </h1>
           <p className="text-xl md:text-2xl text-white mb-8">
-            Your donor insights on autopilot
+            Your donor insights on autopilot!
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
